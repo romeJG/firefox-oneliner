@@ -1,4 +1,4 @@
-#Firefox Oneliner 🦊
+# Firefox Oneliner 🦊
 
 
 ![alt text](./readme-assets/oneliner.png)
