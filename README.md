@@ -11,9 +11,10 @@
 
 
 ## What I used on my startpage 🛠️
- - I used [Bonjurr](https://bonjourr.fr/) extension for the startpage.
- - I used [Firefox color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) for coloring the theme. you can hard code it but its easier to do it with this extension.
- - You can drag and drop things on the main bar when you right click and customize tool bar
+ - I used **[Bonjurr](https://bonjourr.fr/)** extension for the startpage.
+ - I used **[Firefox color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)** for coloring the theme. you can hard code it but its easier to do it with this extension.
+ - **[Wallpaper](https://wallpapercave.com/w/wp6693801)** used.
+ - You can drag and drop things on the main bar when you `right click and customize tool bar`
 
 ## Installation 💾
 
