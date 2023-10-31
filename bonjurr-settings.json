@@ -1,0 +1,254 @@
+{
+  "about": {
+    "browser": "firefox",
+    "version": "1.18.0"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "enable",
+  "favicon": "🏎",
+  "tabtitle": "Hello Justine",
+  "greeting": "",
+  "pagegap": 0,
+  "pagewidth": 1800,
+  "time": true,
+  "main": true,
+  "usdate": false,
+  "background_blur": 2,
+  "background_bright": 0.37,
+  "background_type": "local",
+  "quicklinks": true,
+  "linkstyle": "text",
+  "linknewtab": false,
+  "linksrow": "16",
+  "linksiqhpmf": {
+    "order": 7,
+    "_id": "linksiqhpmf",
+    "title": "🤖",
+    "icon": "https://chat.openai.com/apple-touch-icon.png",
+    "url": "https://chat.openai.com/"
+  },
+  "linksiljdnf": {
+    "order": 6,
+    "_id": "linksiljdnf",
+    "title": "👽 ",
+    "icon": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png",
+    "url": "https://www.reddit.com/"
+  },
+  "linkskecmmn": {
+    "order": 5,
+    "_id": "linkskecmmn",
+    "title": "🗞️",
+    "icon": "",
+    "url": "https://www.theverge.com/"
+  },
+  "linksagafmk": {
+    "order": 4,
+    "_id": "linksagafmk",
+    "title": "⛩️",
+    "icon": "",
+    "url": "https://anix.to/home"
+  },
+  "linkslahirf": {
+    "order": 3,
+    "_id": "linkslahirf",
+    "title": "🏎️💨",
+    "icon": "https://fsl-stream.lu/wp-content/uploads/2019/01/cropped-46494368_2082671508419716_7960831997507534848_n-192x192.png",
+    "url": "https://freestreams-live1.se/"
+  },
+  "linksoelinl": {
+    "order": 2,
+    "_id": "linksoelinl",
+    "title": "🍿",
+    "icon": "https://www.pngarts.com/files/1/Netflix-Logo-PNG-Transparent-Image.png",
+    "url": "http://netflix.com/"
+  },
+  "linkscplkji": {
+    "order": 1,
+    "_id": "linkscplkji",
+    "title": "🎟️",
+    "icon": "https://www.youtube.com/s/desktop/32c4e480/img/favicon_144x144.png",
+    "url": "https://www.youtube.com/"
+  },
+  "linkslmhajh": {
+    "order": 0,
+    "_id": "linkslmhajh",
+    "title": "🏁",
+    "icon": "https://www.formula1.com/etc/designs/fom-website/icon144x144.png",
+    "url": "https://www.formula1.com/"
+  },
+  "textShadow": 0.2,
+  "reviewPopup": "removed",
+  "cssHeight": 80,
+  "css": "#interface #time #time-container #clock {\nfont-size: 9em;\n}\n#interface #time #date{\nfont-size: 1.2em;\n}\n#interface #main #greetings{\nfont-size: 2.5em;\n}\n#interface #main #weather #current, #interface #main #weather #forecast{\nfont-size: 0.7em;\n}\n#interface #widgets{\nopacity: 0.89;\n}\n#interface #widgets #linkblocks.medium li a img{\npadding: 0.2em;\nborder-radius: 1em;\n}\n#interface #linkblocks li.block a img{\nopacity: 0.85;\n}\n#creditContainer #credit{\ndisplay: none;\n}\n#interface #quotes_container #quote{\nfont-size: 1em;\n}\n#interface #quotes_container #author{\nfont-size: 0.9em;\n}",
+  "hide": {
+    "settingsicon": true,
+    "date": false,
+    "greetings": true,
+    "weatherdesc": false,
+    "weathericon": false,
+    "clock": false
+  },
+  "clock": {
+    "size": 1.375,
+    "ampm": true,
+    "analog": false,
+    "seconds": false,
+    "face": "number",
+    "style": "transparent",
+    "timezone": "auto"
+  },
+  "unsplash": {
+    "every": "hour",
+    "collection": "",
+    "lastCollec": "day",
+    "pausedImage": null,
+    "time": 1698467025280
+  },
+  "weather": {
+    "ccode": "PH",
+    "city": "Mandaluyong",
+    "unit": "metric",
+    "location": [],
+    "provider": "",
+    "moreinfo": "windy",
+    "forecast": "auto",
+    "temperature": "feelslike",
+    "lastCall": 1698762068,
+    "lastState": {
+      "temp": 28.68,
+      "feels_like": 32.21,
+      "temp_max": 28.98,
+      "sunrise": 1698702639,
+      "sunset": 1698744493,
+      "description": "broken clouds",
+      "icon_id": 803
+    },
+    "fcLast": 1698843600,
+    "fcHigh": 18
+  },
+  "notes": {
+    "on": false,
+    "width": 40,
+    "text": null,
+    "opacity": 0.1,
+    "align": "left"
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0.1,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "ddg",
+    "request": "",
+    "placeholder": "Search"
+  },
+  "quotes": {
+    "on": true,
+    "author": true,
+    "type": "classic",
+    "frequency": "hour",
+    "last": 1698762067180,
+    "userlist": []
+  },
+  "font": {
+    "url": "https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900",
+    "size": "14.55",
+    "family": "Montserrat",
+    "weight": "300",
+    "availWeights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "grid": [
+          [
+            "quotes"
+          ],
+          [
+            "time"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "main"
+          ]
+        ],
+        "items": {
+          "time": {
+            "text": "",
+            "box": "end center"
+          },
+          "main": {
+            "text": "left",
+            "box": "end baseline"
+          },
+          "quicklinks": {
+            "text": "",
+            "box": ""
+          },
+          "searchbar": {
+            "text": "",
+            "box": "end center"
+          },
+          "quotes": {
+            "text": "right",
+            "box": "baseline end"
+          }
+        }
+      },
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {
+          "main": {
+            "text": "",
+            "box": ""
+          }
+        }
+      }
+    }
+  }
+}
