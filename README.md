@@ -34,4 +34,7 @@
 3. Scroll all the way down
 4. Press import then use the file called **`bonjurr-settings.json`**
 
+## Firefox Color Installation 💾
+1. install **[Firefox color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)**
+2. Press this [link]()
 
