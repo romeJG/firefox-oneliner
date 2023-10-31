@@ -36,5 +36,6 @@
 
 ## Firefox Color Installation 💾
 1. install **[Firefox color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)**
-2. Press this [link]()
+2. Press this [link](https://color.firefox.com/?theme=XQAAAAIpAQAAAAAAAABBqYhm849SCia2CaaEGccwS-xMDPrzes6Uaaq-qy5QgqeHG4K15QeDoRmELEz1pKAoB708gsayIVbodNaGPvRptgAmPRohGih3iyad0Zlcu-48u-OPsXkTg658dQimhU_bRVet59TPu8iNf4cZpxwbJZJaC2MOwQxMbf0ml3dVFNVH_amA28wETBUgDQnDHXr3-iOslmxhwun_xGpwottPMMopsNQCg18rLJISPOrwf1TGXGPcB-o0AycltiF4GQT__7YxMAA)
+3. voilà
 
