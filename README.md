@@ -1,6 +1,6 @@
 # Firefox Oneliner 🦊
 
-
+## Screenshot 🖼️
 ![alt text](./readme-assets/oneliner.png)
 
 ## Features ✨
