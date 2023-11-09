@@ -24,7 +24,7 @@
    - In the address bar, type **`about:support`** and press **`Enter`**.
    - Search for **`Profile Directory`** and click on **`Open Directory`** button.
 4. Create a folder and name it **`chrome`** (with lowercase).
-5. Paste **`userChrome.css`** file into the folder **or **create one then copy paste the code.
+5. Paste **`userChrome.css`** file into the folder **or** create one then copy paste the code.
 6. Finaly **save the file 💾** then **Restart Firefox 🔁**
 
 
